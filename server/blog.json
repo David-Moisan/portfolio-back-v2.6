@@ -1,0 +1,538 @@
+[
+    {
+        "id": 1,
+        "title": "5 langages de programmation en 2022",
+        "category": {
+            "type": "Web",
+            "color": "#8eb0e8"
+        },
+        "slug": "5-langages-de-programmation-en-2022",
+        "thumbnail": "https://www.cjoint.com/doc/23_07/MGto6DNiv0S_juanjo-jaramillo-mZnx9429i94-unsplash.jpg",
+        "description": "L'année 2022 est une opportunité pour se fixer de nouvels objectifs alors voit ensemble les meilleurs langages de programmation à apprendre",
+        "created_at": "20/01/2022",
+        "body": {
+            "intro": {
+                "title": "Bonne année a tous les développeurs !",
+                "text": "Pour cette nouvelle année nous allons voir ensemble dans cet article quel sont les langages de programmation à apprendre pour 2022."
+            },
+            "chapters": {
+                "chap1": {
+                    "title": "Étant nouvellement diplômé, je me pose souvent cette fameuse question : quel langage apprendre pour trouver un travail ou une mission ?",
+                    "text": [
+                        "Après avoir fait des recherches sur les annonces d'emploi, les plateformes de freelance, etc. je suis sortie avec une nette tendance pour l'année à venir. Bien entendu, le monde du développement informatique est en perpétuelle évolution et aujourd'hui, plus que jamais auparavant.",
+                        "Plusieurs nouveaux langages et frameworks émergent, c'est outils sont plus ou moins adaptés à différentes catégories de développeurs (débutants, intermédiaires et experts) et surtout, différents types d'utilisation (application web, mobile, game development, etc...).",
+                        "Si comme moi, vous envisagez d'améliorer vos compétences en développement et/ou alors vous avez envie de vous lancer dans ce domaine très recherché, vous devez absolument connaître les différents types et niveaux de programmation, et bien sûr vous devez donc, connaître les langages de programmation qu'il est préférable d'apprendre.",
+                        "Donc nous allons voir ensemble aujourd'hui, les langages de programmation à apprendre en 2022 et qui seront susceptibles de nous aider à trouver un emploi."
+                    ]
+                },
+                "chap2": {
+                    "title": "1) JavaScript",
+                    "text": [
+                        "Ce n'est un secret pour personne, le JavaScript est un langage recommandé pour avoir des bases de développement web, afin d'apporter du dynamisme à nos sites web. Mais quand on est débutant, nous ne nous rendons pas compte de la force derrière cet outil.",
+                        "Aujourd'hui, de nombreuses entreprises, souvent des startups, utilisent NodeJS. NodeJS, permet aux développeurs d'utiliser JavaScript pour les scripts côté serveur (backend). Si vous recherchez un travail technique dans une startup ou même une petite ESN. Vous devriez sérieusement envisager d'apprendre JavaScript en 2022.",
+                        "Pour aller plus loin, le JavaScript est à la base d'énormément d'outil, tellement qu'il serait impossible pour moi de tous les détailler ici. Outre les très réputés, ReactJS et ReactNative (la version React pour la création d'application mobile) créé par l'équipe de Facebook (...Meta). Nous avons des outils comme Express.js (framework backend pour créer des applications web).",
+                        "À titre personnel, j'ai étudié pendant plus d'un an l'univers JavaScript, dans mes études avec (JavaScript vanilla, ReactJS) et personnellement dans des projets que vous pouvez retrouver sur mon portfolio. J'aime particulièrement Three.js qui est une bibliothèque JavaScript pour créer des scènes 3D dans un navigateur web. J'ai aussi l'habitude d'utiliser Chart.js (permet de créer des graphiques de visualisation de données type camembert, etc..) et Leaflet.js (permet de créer des cartes interactives, comme googleMap) Nous reviendrons dessus dans d'autres articles.`"
+                    ]
+                },
+                "chap3": {
+                    "title": "2) Python",
+                    "text": [
+                        "Quand on débute dans le développement informatique, nous entendons souvent parler de Python, il serait considéré comme le meilleur langage de programmation à apprendre en premier, le langage le plus simple, etc..",
+                        "C'est vrai, qu'il s'agit d'un langage de programmation rapide, facile à utiliser (dû à la syntaxe la plus simplifier sur le marché. voir image ci-dessous)",
+                        "Le Python est largement utilisé pour développer des applications Web évolutives (notamment grâce au framework Django). YouTube, Instagram, Pinterest, sont tous construits avec Python. Si vous recherchez un langage de programmation populaire avec une grosse communauté c'est le langage le plus accessible pour les débutants.",
+                        "Beaucoup d'entreprises tech, scientifique et des Big Data utilisent Python, et cela va s'accentuer avec l'avènement des IA, du Machine Learning et autres technologies qui augmenteront la demande de profils sachant développer avec Python. Ce n'est pas pour rien que les étudiants de seconde aujourd'hui commencent à voir de plus en plus de Python dans les cours de mathématiques.",
+                        "C'est le langage que j'ai décidé d'apprendre il y a maintenant 1 an, en autodidacte et je continue encore aujourd'hui je vous écris cet article via mon espace admin Django pour créer mon portfolio 2.0 et je trouve son utilisation géniale, je le recommande."
+                    ]
+                },
+                "chap4": {
+                    "title": "3) Golang",
+                    "text": [
+                        "Go est un langage de programmation compilé développé par Google. Cet outil offre un excellent support multithreading et est donc souvent utilisé par de grosse entreprises (exemple Twitch, American Express, Netflix, Twitter, Microsoft, Dropbox, etc...) qui dépendent fortement des systèmes distribués. Donc si vous voulez décrocher un poste à la Silicon Valley, Go !",
+                        "Personnellement, je sens une grosse 'hype' autour de ce langage de programmation. Je n'est aucune expérience avec ce langage et vous renvoie à leur page web."
+                    ]
+                },
+                "chap5": {
+                    "title": "4) PHP",
+                    "text": [
+                        "Certains me diront 'Quoi PHP en 2022? Lol' mais oui, oui. PHP est l'un des langages de programmation backend les plus populaires. Ce n'est pas la tendance des goûts que nous suivons ici ! Mais la tendance sur le marché ! Et le marché a encore besoin d'un grand nombre de développeurs PHP. Alors c'est vraie, la première fois que j'ai tapé https://www.php.net/ et que je suis arrivé sur le site j'avais mal aux yeux !",
+                        "Mais PHP a fait énormément de progrès est reste la référence pour de nombreux développeurs, la dernière version de PHP 8.0 a été une révolution ! Outre le langage, il existe aussi une multitude de framework clés en main comme Symfony, Laravel.",
+                        "Pour ma part, j'apprécie énormément travaillait sur Symfony qui est l'équivalent du framework Django, mais pour PHP. J'ai réalisé mon projet de fin d'études sur Symfony et c'est le projet dont je suis le plus fier."
+                    ]
+                },
+                "chap6": {
+                    "title": "5) Swift",
+                    "text": "Avis aux amoureux de la pomme, si vous aimez le développement mobile et que vous appréciez particulièrement l'environnement macOS alors ce langage de programmation est fait pour vous et je vous conseille de commencer à l'apprendre pour cette année."
+                }
+            },
+            "outro": {
+                "title": "C'est bien beau tous ça mais c'est lequel le meilleur ?",
+                "text": [
+                    "Bien évidemment cela dépend de la voie que vous voulez choisir, en effet un développeur de jeux vidéo sera plus intéressé par C# ou C++, un développeur mobile par Swift, Kotlin, ou autre, un développeur web sera plus intéressé par Javascript et tout son univers, une personne voulant travailler dans des grosses entreprises se dirigera plus vers du Java, bref.",
+                    "Vous l'avez compris c'est un choix difficile. Une chose est sûre c'est que l'ensemble des langages de programmation que je vous ai présenté, font partie des langages les plus demandés sur le marché. Si vous êtes débutant, et que vous voulez commencer à apprendre un langage de programmation choisissez parmi c'est 5 langages.",
+                    "Merci pour votre lecture et à bientôt !"
+                ]
+            }
+        }
+    },
+    {
+        "id": 2,
+        "title": "Utiliser le Débogueur pour apprendre les algo",
+        "category": {
+            "type": "Outils",
+            "color": "#adcdb4"
+        },
+        "slug": "utiliser-le-debogueur-pour-apprendre-les-algo",
+        "thumbnail": "https://www.cjoint.com/doc/23_07/MGtpk7br6rS_algo-thumbs.jpg",
+        "description": "Vous aussi vous avez du mal à comprendre les subtilités des algorithmes? Je vais vous montrer ma dernière astuce pour comprendre mieux la logique...",
+        "created_at": "13/03/2022",
+        "body": {
+            "intro": {
+                "title": "Bonjour à tous 🙋‍♂️",
+                "text": [
+                    "Pour ce nouvel article, j’ai envie de partager avec vous ma dernière découverte. Étant junior, et ayant à cœur d'apprendre et surtout maîtriser les algorithmes, il est souvent difficile de comprendre toutes les notions.",
+                    "Cet article n'a pas pour but d'être un tutoriel sur les algorithmes, mais plutôt de vous présenter un outil qui peut servir à mieux comprendre toutes les étapes du calcul d'un algorithme."
+                ]
+            },
+            "chapters": {
+                "chap1": {
+                    "title": "Oui d'accord et donc c'est quoi cet outil ?",
+                    "text": [
+                        "L'outil en question, est notre bon vieux débogueur !",
+                        "Quoi ? et pourquoi un console.log() ou un print() ne suffit pas ?",
+                        "Alors si, effectivement ces méthodes peuvent être d'une grande aide pour savoir ce qui se passe dans une boucle for par exemple. Mais le débogueur a une particularité que nous allons voir juste après qui permet de comprendre la logique de l'algorithme !"
+                    ]
+                },
+                "chap2": {
+                    "title": "Le cas pratique",
+                    "text": [
+                        "Pour vous montrer toute la puissance de cet outil nous allons prendre un cas pratique. La manipulation de matrices avec le langage de programmation Python.",
+                        "Comme précisé ci-dessus cet article n'est pas un tutoriel de manipulation de matrice avec Python. Pour cela je vous renvoie à de très bon contenus sur le sujet avec les chaînes YouTube suivantes:",
+                        "    La chaîne de foxx py et ces 163 vidéos sur les algorithmes avec Python 😲",
+                        "    La chaîne d'Algomius",
+                        "    La chaîne de Grafikart notamment sur ça vidéo des tableaux multidimensionnels de sa formation Algorithmique (7/10)",
+                        "Une fois ceci dit on va entrer directement dans le vif du sujet :",
+                        "Pour pouvoir déboguer sans difficulté sur Visual Studio Code , il vous faudra télécharger l'extension Python (si vous faites déjà du Python vous l'avez sûrement déjà).",
+                        "Pour télécharger l'extension se rendre dans l'onglet extension > rechercher avec le mot-clé 'Debug' ou 'Python' > télécharger l'extension ci-dessous ⏬"
+                    ],
+                    "image": "https://www.cjoint.com/doc/23_07/MGvps3sZneS_vscode.png"
+                },
+                "chap3": {
+                    "title": "Ça y est, et maintenant ? je fais quoi ?",
+                    "text": [
+                        "Alors je vais vous présenter mon dernier exercice sur les matrices et mon utilisation du débogueur pour mieux appréhender les notions de l'algorithmie. L'objectif ici est simple, j'ai créé deux matrices et je veux vérifier si ces deux matrices sont égales.",
+                        "Rappel: 'Deux matrices sont égales si elles possèdent les mêmes nombres de lignes, si elles possèdent les mêmes nombres de colonnes. Pour des coordonnés i, j données, l'élément est le même dans les deux matrices'."
+                    ]
+                },
+                "chap4": {
+                    "title": "Attends-tu disais que ce n'était pas un tuto !",
+                    "text": [
+                        "Oui je sais, mais attends c'est pour le contexte 😁",
+                        "Voici une petite fonction pour vérifier si mes deux matrices sont égales, bon j'ai délibérément commenté et changé un peu cette fonction pour vous expliquer 'un peu' l'efficacité de l'outil.",
+                        "Donc pour parcourir un tableau multidimensionnel nous avons besoin de 2 boucles for :",
+                        "la première pour parcourir toutes les lignes du tableau",
+                        "la seconde pour parcourir toutes les colonnes du tableau",
+                        "En effet, dès l'utilisation de plusieurs boucles imbriquées, la logique se complexifie et il est parfois difficile de comprendre la subtilité du calcul.",
+                        "Et c'est là qu'apparaît notre outil magique 🤩🤩",
+                        "Pour utiliser le débogueur il suffit de cliquer sur l'icône qui est apparus sur votre barre d'activité (à gauche en surbrillance. Une fenêtre s'ouvre et il est maintenant temps de découvrir ensemble les fonctionnalités.",
+                        "Comme vous pouvez le constater ci-dessus, je mets en place ce qu'on appelle 'des points d'arrêt' sur les différentes partie du code."
+                    ],
+                    "image": "https://www.cjoint.com/doc/23_07/MGvpw1QC6VS_chap4.png"
+                },
+                "chap5": {
+                    "title": "Les petits points rouges là ?",
+                    "text": [
+                        "Oui c'est ça ! les petits points rouges juste à côté des numéros de lignes.",
+                        "Donc, voici le moment temps attendu ! Je mets en place tous mes points d'arrêt pour permettre au débogueur d'effectuer des...des...?"
+                    ],
+                    "image": "https://www.cjoint.com/doc/23_07/MGvpERfn6IS_chap5.png"
+                },
+                "chap6": {
+                    "title": "Des points d'arrêt !",
+                    "text": "Comme son nom l'indique, le débogueur va effectuer l'algorithme en s'arrêtant sur les différents points que j'ai mis en place. Mais pour cela il vous faut appuyer maintenant sur le gros bouton 'Exécuter et déboguer'."
+                },
+                "chap7": {
+                    "title": "Euh...et du coup? j'ai juste le terminal qui s'est affolé est plein d'infos partout ça m'aide en quoi pour la compréhension de l'algorithme?",
+                    "text": [
+                        "Effectivement la manipulation n'est pas terminée !",
+                        "Vous pouvez remarquer que les points d'arrêt deviennent maintenant jaunes et sur la gauche vous avez la fenêtre 'Variables'.",
+                        "Et c'est dans cette petite fenêtre que tous vont se passer !",
+                        "Actuellement mes variables locales me montrent les choses suivantes ;",
+                        "'Spéciale variable' ce sont des variables nécessaires au bon fonctionnement du débogueur et du lancement du script (pas besoin d'aller fouiller sauf si vous êtes curieux)'Fonction variable' actuellement j'ai déjà une autre variable au-dessus dont le résultat s'affiche dans le terminal 'la matrice est carrée', etc.",
+                        "Et enfin mes deux matrices avec les valeurs de chacune.",
+                        "Maintenant il vous suffit d'appuyer sur le bouton 'play' qui se trouve en haut à droite de l'image ci-dessous. Le bouton 'play' permet au débogueur de passer au point d'arrêt suivant et donc vous permet de gérer la vitesse du calcul et de voir étape par étape la logique même de l'algorithme. Faite le test allez-y !"
+                    ],
+                    "image": "https://www.cjoint.com/doc/23_07/MGvpHlcfYtS_chap7.png"
+                },
+                "chap8": {
+                    "title": "Attend, mais c'est trop bien ton truc ! on voie vraiment la logique des boucles imbriquées ! 😍",
+                    "text": "C'est le but, justement ! cela nous permet de mieux décomposer l'algorithme de voir étape par étape l'état du programme et de mieux comprendre les notions et enfin bien évidemment de déboguer votre programme en cas de problème (n'oublions pas l'utilité principale quand même)."
+                },
+                "chap9": {
+                    "title": "Voilà",
+                    "text": "J'espère avoir été assez claire dans mes 'explications' et surtout si vous êtes junior comme moi, de vous avoir permis de découvrir un nouvel outil pour votre apprentissage. Et parce que je ne suis pas radin voici l'algorithme de vérification pour savoir si deux matrices sont égales et si elle vérifie les propriétés expliquées plus haut :",
+                    "image": "https://www.cjoint.com/doc/23_07/MGvpK6FABdS_chap9.png"
+                }
+            },
+            "outro": {
+                "title": "Le mot de la fin",
+                "text": "N'hésitez pas à vous suivre sur mes réseaux, vous avez toutes les infos sur ce site et je vous souhaite d'excellent moment à décortiquer chaque algorithme que vous allez bientôt créer."
+            }
+        }
+    },
+    {
+        "id": 3,
+        "title": "L'article du jutsu doré",
+        "category": {
+            "type": "Personnel",
+            "color": "#ec1e1e"
+        },
+        "slug": "larticle-du-jutsu-dore",
+        "thumbnail": "https://www.cjoint.com/doc/23_07/MGtpolHkMcS_phi.png",
+        "description": "L'article du jutsu doré, une nouvelle façon de voir la conception frontend",
+        "created_at": "21/08/2022",
+        "body": {
+            "intro": {
+                "title": "Bonjour à tous,",
+                "text": [
+                    "Je suis @phi_and_code développeur depuis 2 ans.",
+                    "J’ai commencé dès ma reconversion en 2020 à m’intéresser à un sujet mathématique dont je suis littéralement “obsédé”, qui régit mon quotidien, ma façon de penser, ma façon de développer, jusqu'à la rédaction de cette article.",
+                    "Je tiens, néanmoins, a nuancer mon propos : je ne suis ni mathématicien, ni expert dans ce domaine, j’explore avec toute ma curiosité une discipline qui n’a à ce jour et à ma connaissance 😊 jamais été exploré dans le monde du développement.",
+                    "C’est un peu la brique de la création de mon compte Twitter, ma thèse que j’aimerai défendre et apporter à la communauté du dev."
+                ]
+            },
+            "chapters": {
+                "chap1": {
+                    "title": "Vous allez vous dire “Mais, de quoi est-ce qu’il parle ce mec ?”",
+                    "text": [
+                        "Donc commençons par une petite mise en bouche.",
+                        "Vous êtes déjà tous certainement passé par l'apprentissage de la récursivité en algorithmie via la suite de Fibonacci ?",
+                        "Si ce n'est pas le cas, vous allez sûrement y passer 😅 ce principe de récursivité est un élément essentiel pour tout développeur afin d’améliorer grandement la rapidité d’un programme.",
+                        "Tenez un petit exemple en php :"
+                    ],
+                    "image": "https://www.cjoint.com/doc/23_07/MGvpVsJNXcS_fibonacci.php.png"
+                },
+                "chap2": {
+                    "title": "Le sujet de la récursivité est beaucoup trop vaste pour entrer dans les détails et je vous renvoie d’ailleurs vers des ressources qui traitent le sujet :",
+                    "text": [
+                        "La dernière vidéo de @Grafikart sur la récursivité et SQL",
+                        "   - Apprendre et maitriser SQL: Requête récursive",
+                        "La magnifique chaîne de @Foxxpy",
+                        "   - 12. Suite de Fibonacci et mémoïsation"
+                    ]
+                },
+                "chap3": {
+                    "title": "Bon ok super un article pour me montrer ça ? Sérieusement ?",
+                    "text": [
+                        "Je ne peux pas exposer clairement le sujet sans une phase de contextualisation, retenez simplement la suite de Fibonacci 🙂",
+                        "La suite de Fibonacci est une suite d’entiers dans laquelle chaque terme est la somme des deux termes qui le précèdent.",
+                        "$calculDeLaSuiteDeFibonacci = array(",
+                        "   ‘1 + 1 = 2’",
+                        "   ‘1 + 2 = 3’",
+                        "   ‘2 + 3 = 5’",
+                        "   ‘3 + 5 = 8’",
+                        "   ‘etc…);’",
+                        "Leonardo Fibonacci publia en 1202, dans son célèbre Liber abaci la résolution d’un problème sur la croissance d’une population de lapins en introduisant le principe de la suite de Fibonacci.",
+                        "Voici un article pour aller plus loin dans la découverte de la suite de Fibonacci ⇒ https: //fr.wikipedia.org/wiki/Suite_de_Fibonacci",
+                        "La particularité de la suite de Fibonacci et toute la magie se trouve dans la possibilité de calculer cette suite à partir du nombre d’or, une constante mathématique, le fameux phi ou φ (21e lettre de l'alphabet grec) :",
+                        "le nombre d’or vaut",
+                        "φ = $(1+√5) /2$ = 1.618 033 988 7…"
+                    ]
+                },
+                "chap4": {
+                    "title": "Woh attend ça fait trop d’infos d’un coup et je ne vois toujours pas le rapport avec ta pratique du développement ?",
+                    "text": [
+                        "1.618 est une constante mathématique qui apparaît dans énormément de domaines et pourquoi je fais le rapport avec la suite de Fibonacci ? Car quand on divise la somme du calcul 89 (10e terme de la suite de Fibonacci) par le terme précédent (n-1, soit le 9e terme) nous retrouvons 1.618….",
+                        "Exemple :",
+                        "…",
+                        "21 + 34 = 55",
+                        "34+55 = 89",
+                        "…",
+                        "89 / 55 = 1.618…",
+                        "Cette constante est la même pour chaque terme de la suite. ( Il existe cependant une limite à ce résultat au dessus de 50e terme et sous le 11e terme, la constante est approximative. Voir article ci-dessus.)",
+                        "Pour vous rendre compte de la puissance de ce nombre d’or, je vous invite à faire un voyage culturel avant d’enfin passer par la case pratique."
+                    ]
+                },
+                "chap5": {
+                    "title": "Alors le nombre d’or, on entend souvent parler de ce sujet, mais qu’est ce que sait ?",
+                    "text": [
+                        "Nous retrouvons le nombre d’or dans l’art, la musique, la géométrie, l’architecture, la trigonométrie, et la liste est longue.",
+                        "La biologie a un domaine spécifique qui s’appelle la phyllotaxies (phúllon, “feuille”, et táxis, “arrangement) qui consiste grâce au nombre d’or d’étudier l’arrangement des plantes, et autres éléments naturels qui nous entourent pour déterminer la récurrence de cette constante.",
+                        "D’ailleurs Adolf Zeising philosophe allemand du XIXe appuie sa théorie sur une représentation dans la nature de la suite de Fibonacci et de la spiral d’or sur un tournesol."
+                    ],
+                    "image": "https://www.cjoint.com/doc/23_07/MGvp4ab0ucS_phi-chap5.png"
+                },
+                "chap6": {
+                    "title": "Le nombre d’or est présenté pour la première fois, dans les Éléments d’Euclide en 300 avant J.-C.",
+                    "text": "Il intervient dans la construction de pentagones réguliers, ainsi que dans la construction de rectangles d’or, et de spirale d’or.",
+                    "image": ""
+                },
+                "chap7": {
+                    "text": [
+                        "Cette technique du rectangle d’or et de spiral d’or a été maintes fois utilisée dans l’art et dans l’architecture.",
+                        "Salvador Dalì fait référence à cette constante dans son tableau “Le Sacrement de la dernière Cène”."
+                    ],
+                    "image": "https://www.cjoint.com/doc/23_07/MGvp7qZtJgS_scene-chap7.jpg"
+                },
+                "chap8": {
+                    "text": "De nombreuses peintures comme Saint Jérôme - Léonard de Vinci ou encore La naissance de Vénus - Sandro Botticelli",
+                    "image": "https://www.cjoint.com/doc/23_07/MGvqaRd6fbS_chap8.png",
+                    "image2": "https://www.cjoint.com/doc/23_07/MGvqbHVEqqS_img2chap8.jpg"
+                },
+                "chap9": {
+                    "title": "Je continue ?",
+                    "text": [
+                        "Le logo de Twitter, d’Apple a été fait avec le nombre d’or.",
+                        "Je vous laisse regarder les illustrations De divina proportione - illustré par Léonard de Vinci en 1498 à Milan.",
+                        "https://fr.wikipedia.org/wiki/De_divina_proportione"
+                    ],
+                    "image": "https://www.cjoint.com/doc/23_07/MGvqwqprpoS_twap-chap9.png"
+                },
+                "chap10": {
+                    "text": [
+                        "Ce ratio est même utilisé encore aujourd’hui dans l’étude graphique des cours de bourse, la règle Fibonacci où le taux de possibilité pour que le cours remonte/descende est comprise dans la gold zone, c’est-à-dire par rapport aux derniers plus haut/bas du cours nous traçons une zone respectant les ratios de Fibonacci.",
+                        "Si le cours casse la ou les résistances/supports qui représentent,",
+                        "38.2% ou 50% ou 61.8% il est probable que le cours rattrape sa dernière baisse/hausse."
+                    ],
+                    "image": "https://www.cjoint.com/doc/23_07/MGvqxv0hZZS_trading.png"
+                },
+                "chap11": {
+                    "text": [
+                        "La liste n’est pas exhaustive et je ne représente que quelques exemples sur ce sujet afin de vous faire prendre conscience de la force d’une constante mathématique qui régit énormément d’aspects de notre quotidien.",
+                        "Cette découverte a radicalement changé ma vision des choses, tant sur la beauté des mathématiques, le fait que le nombre d’or soit utilisé dans énormément de domaines scientifiques et pour son rapport à la beauté en tant que clé importante de l’harmonie des formes.",
+                        "Encore une fois, ce sujet est vaste et de plus, sujet à controverse mathématique et/ou scientifique, certains y voient la preuve de Dieu, d’autres y voient une supercherie ésotérique quand d’autre y voient une constante mathématique universelle…",
+                        "Je vous laisse vous faire votre avis sur le fond attaquons nous maintenant à la forme."
+                    ],
+                    "image": "https://www.cjoint.com/doc/23_07/MGvqyCw3SLS_crazy.png"
+                },
+                "chap12": {
+                    "title": "Merci pour le cours d’histoire, mais comment appliques-tu ça dans ton développement au quotidien ?",
+                    "text": "Comme détaillé ci-dessus, je me sers du nombre d’or afin d’apporter une certaine harmonie à mon contenu, tous en ayant l’impression de perpétuer une pratique millénaire.",
+                    "image": "https://www.cjoint.com/doc/23_07/MGvqAyvqsuS_or.png"
+                },
+                "chap13": {
+                    "text": [
+                        "Cette règle que je m’impose depuis mon apprentissage du frontend est appliqué selon mes propres critères, et je tiens justement à partager mes petites habitudes et théorie sur le sujet.",
+                        "J’invite toute personne voulant apporter sa contribution, ses remarques à ma thèse, à venir en débattre sur Twitter."
+                    ],
+                    "image": "https://www.cjoint.com/doc/23_07/MGvqCKsJzCS_magicfrog.png"
+                },
+                "chap14": {
+                    "title": "Tout d’abord,",
+                    "text": [
+                        "lors de la création d’une “landing page” et ou page d’accueil, je détermine avec la spiral d’or la zone ou l’utilisateur jettera sont regard en premiers.",
+                        "C’est une technique utilisée en graphisme et photographie afin de déterminer le sujet principal du reste de l’œuvre.",
+                        "J’applique ensuite la règle du nombre d’or (et des termes de la suite de Fibonacci) a toutes les parties de ma création, la taille de la police, les tailles des différentes zones, blocs, le choix de la marge, des espacements et tous cela constitue mes visuels, maquette et wireframe."
+                    ]
+                },
+                "chap15": {
+                    "title": "Pour chaque feuille de style CSS, j’applique cette règle.",
+                    "text": [
+                        "Mon objectif, même si mes connaissances ne me permettent pas toujours de respecter certaines contraintes, est d’arriver à amener toutes mes créations vers ce ratio doré, vers cette proportion.",
+                        "Ne pensez pas que je fasse du zèle, quand je parle de création, car pour moi, la programmation, est une forme d’art, que ce soit dans la conception d’un site web, d’une interface et de tout ce qui a un rapport avec le côté client, jusqu’à la façon dont on pense la conception d’un outil, d’un algorithme."
+                    ]
+                },
+                "chap16": {
+                    "title": "Je n’arrive pas à comprendre comment tu peux appliquer le nombre d’or dans une feuille de style ?",
+                    "text": [
+                        "Je vais prendre un exemple basique, la création d’un bloc centré dans une “frame” et un texte dans ce bloc.",
+                        "Tout d’abord, je trouve que le meilleur calcul à faire est de configurer la taille de police dans la balise html à 13 pixels.",
+                        "Pourquoi 13 pixels ? Le 13 = 5 + 8, c’est le 7e terme de la suite de Fibonacci."
+                    ],
+                    "image": "https://www.cjoint.com/doc/23_07/MGvqFWxRtiS_cssPHI.png"
+                },
+                "chap17": {
+                    "title": "Le résultat est le suivant : ",
+                    "image": "https://www.cjoint.com/doc/23_07/MGvqHltMJJS_mage.png",
+                    "image2": "https://www.cjoint.com/doc/23_07/MGvqIkOYdUS_simple-card.png"
+                },
+                "chap18": {
+                    "title": "Votre œil n’est peut-être pas habitué",
+                    "text": [
+                        "Mais tout respect le ratio, la taille du bloc, la taille de la police, le border-radius, le box-shadow, le margin, le letter-spacing tous se rapproche du nombre d’or.",
+                        "Je tire deux avantages de cette technique, premièrement l’utilisation de l’unité de mesure “rem” qui est un plus au niveau de l’accessibilité du site web et du responsive.",
+                        "Deuxièmement, comme nous l’avons vue ensemble le nombre d’or est une clé universelle de l’harmonie des formes, se rapprocher de cette constante permet d’unifier sont œuvre, de la rendre plus lisible, plus belle.",
+                        "Évidemment, mon code CSS me prend plus de temps de conception, mais comme le dit Le Corbusier célèbre architecte : « Là où naît l'ordre, naît le bien-être. »"
+                    ]
+                }
+            },
+            "outro": {
+                "title": "Merci d’avoir lu cet article jusqu’à la fin,",
+                "text": [
+                    "ceci est un avant goût pour mes projets futurs où je reviendrais largement sur ce sujet.",
+                    "Afin, de vous montrer les possibilités sur un projet complet de la conception jusqu’au rendu final.",
+                    "Si cet article vous a plu et qu’en savoir plus sur le sujet vous intéressent n’oubliez pas de partager, de likez et de follow mon compte @phi_and_code.",
+                    "À bientôt"
+                ]
+            }
+        }
+    },
+    {
+        "id": 4,
+        "title": "L'algorithme KMP",
+        "category": {
+            "type": "Algorithmie",
+            "color": "#d69032"
+        },
+        "slug": "lalgorithme-kmp",
+        "thumbnail": "https://www.cjoint.com/doc/23_07/MGtpqvWf0OS_KMPthumb.jpg",
+        "description": "Nous allons voir ensemble quelle est la particularité de l'algorithme KMP par rapport aux autres.",
+        "created_at": "30/04/2023",
+        "body": {
+            "intro": {
+                "title": "Qu'est-ce que l'algorithme Knuth-Morris-Pratt ?",
+                "text": "Avant de voir ensemble l'exécution de l'algorithme et comment on l'implémente, un peu d'histoire."
+            },
+            "chapters": {
+                "chap1": {
+                    "text": [
+                        "Conçu en 1970 par Donald Knuth et Vaughan Pratt et publié conjointement avec James Morris en 1977. Soit il y a 46 ans ! 🤯. Donald E. Knuth est aussi le créateur de plusieurs algorithmes, parmi lesquels notre fameux KMP, qui est un algorithme de recherche de sous-chaîne. L'algorithme X de Knuth, l'algorithme RSK et la complétion de Knuth-Bendix.",
+                        "Pour aller plus loin sur le travail de notre ami Knuth et parce que ce n'est pas le sujet de cet article 😅 vous pouvez aller voir les différents tweets de notre ami @ponceto91."
+                    ]
+                },
+                "chap2": {
+                    "title": "Ok, l'algorithme KMP est un algorithme de recherche de sous-chaîne est alors ? 🤷‍♀️",
+                    "text": [
+                        "Je tiens, avant de répondre à cette question, précisé, que je ne suis en rien un 'expert' en algorithmie. C'est seulement grâce à ma curiosité et à la rencontre d'une problématique réelle que j'ai découverts cet algo.",
+                        "En effet, l'astuce est donnée à tous les juniors 'ne réinvente pas la roue' ! Et pourtant, souvent, on n'écoute pas ce conseil avant de se casser les dents, sur la création d'un algorithme bancal, qui ne fonctionne pas très très bien et qui est difficile à maintenir oui, oui nous faisons tous pareil ! Non ? 😅 Si tu rencontres une problématique il y a forcément un esprit brillant qui a eu à répondre a cette même problématique bien avant toi. Nous voici donc il y a 46 ans, où 3 scientifiques de renom publient un travail monstre sur l'élaboration de l'algorithme KMP."
+                    ]
+                },
+                "cha3": {
+                    "title": "Très bien merci pour tes 'conseils' mais c'est quand la partie où tu m'expliques l'implémentation de cet algo ?",
+                    "text": [
+                        "J'y arrive, voici ma problématique : je souhaite rechercher dans un ensemble de textes de longueur *N* l'occurrence de pattern *x* , afin d'avoir en résultat un tableau, qui affiche en clé les noms des patterns et en valeur le nombre de fois où *x* a été trouvé dans le texte.",
+                        "Donc en français, et sans définition barbante de mathématicien 🤭 (mille excuses) j'ai deux tableaux et je veux me servir d'un tableau contenant des mots pour savoir combien de fois ces mots apparaissent dans le deuxième.",
+                        "La puissance de l'algorithme KMP réside dans la création d'un composant qu'on surnomme le **computeLPS** pour (Longest Prefix Suffix), en français le calcul du plus long préfixe, suffixe.",
+                        "Cette technique consiste à construire un tableau qui permet de rechercher efficacement un motif dans un texte. Prenons un exemple pour vraiment comprendre l'ensemble de l'algorithme : je souhaite rechercher le 'motif ' euh... disons PHP 😅 dans le texte suivant : 'Nous recherchons un développeur / une développeuse PHP.'",
+                        "Pour trouver le motif 'PHP' dans le texte ci-dessus, il nous suffit de parcourir l'ensemble du texte caractères par caractère jusqu'à arriver au terme PHP."
+                    ]
+                },
+                "chap4": {
+                    "title": "Très bien, mais si mon texte contient plus de 2500 caractères ? Ça veut dire que l'algorithme va comparer les 2500 caractères pour trouver PHP ? 🤔",
+                    "text": [
+                        "Oui et pour répondre à cette problématique Knuth, Morris et Pratt ont trouvé une astuce, la recherche en amont du plus grand préfixe du motif. Cela va réduire considérablement le nombre inutile de comparaison. Concrètement, ce que va faire la méthode computeLPS(),  c'est de créer un tableau qui contient autant d'index que la longueur du motif.",
+                        "On a toutes les informations nécessaires très bien let's go : "
+                    ],
+                    "image": "https://www.cjoint.com/doc/23_07/MGvqRgbDF2S_KMP.png"
+                },
+                "chap5": {
+                    "title": "Très bien,",
+                    "text": "voici le pseudo-code de l'algorithme KMP, la subtilité consiste toujours dans la méthode LPS que voici :",
+                    "image": "https://www.cjoint.com/doc/23_07/MGvqSaloZiS_LPS.png"
+                },
+                "chap6": {
+                    "title": "Voilà, vous avez tous le secret de l'algorithme KMP c'était @phi__c....🤣",
+                    "text": [
+                        "Non, on reprend notre exemple précédent, on recherche le motif 'PHP' dans le texte 'Nous recherchons un développeur ou une développeuse PHP'.",
+                        "La longueur du texte est de 55 caractères.",
+                        "La longueur du motif est de 3 caractères.",
+                        "On envoie le motif && sa longueur dans la méthode LPS($pattern, $lengthOfPattern) et cette méthode nous renvoie un tableau array(",
+                        "0,",
+                        "0,",
+                        "1",
+                        "); qui va nous permettre de comparer plus facilement le texte et le motif."
+                    ]
+                },
+                "chap7": {
+                    "title": " Attends pourquoi la méthode retourne un tableau [0,0,1] ?",
+                    "text": "Le motif 'PHP', qui a un préfixe de longueur 1 'P' qui est également un suffixe. Donc le premier élément du tableau est 0, le deuxième élément du tableau est 0 car, il n'y a pas de préfixe de longueur 2 qui est également un suffixe, et pour finir, le troisième élément du tableau est 1 car le préfixe 'PH' au suffixe 'P', donc le plus long préfixe qui est également un suffixe pour le préfixe 'PHP' est 'P'. Voici pourquoi le tableau de retour est [0,0,1]."
+                },
+                "chap8": {
+                    "title": "La méthode KMP",
+                    "text": [
+                        "La méthode KMP va parcourir chaque caractère du texte et vérifier s'il correspond au motif 'PHP'. Si ce n'est pas le cas, elle va utiliser les informations contenues dans le tableau LPS pour déterminer le prochain caractère à comparer.",
+                        "Dans notre exemple, la méthode commencera pour comparer le premier caractère 'N' du texte avec le premier caractère du motif 'P'. Comme ils ne sont pas égaux, la méthode utilise la valeur de la clé (qui est actuellement de 0 ($lps = array(",
+                        "0,...",
+                        "))) pour accéder à l'élément 0 du tableau LPS, ce qui donne 0.",
+                        "Elle continue ainsi jusqu'à ce qu'elle trouve une correspondance entre deux caractères, ou jusqu'à la fin du texte."
+                    ]
+                },
+                "chap9": {
+                    "text": [
+                        "Si la méthode trouve une correspondance, elle incrémente la '$key' pour comparer le caractère suivant du motif. *Par exemple 'DéveloPpeur': elle trouve la correspondance avec P, donc incrémente $key = 1 pour comparer l'élément suivant qui ne correspond pas à H donc il remet à 0 la valeur de $key*.",
+                        "Dans notre exemple, la méthode va comparer successivement tous les caractères de notre texte : 'N',",
+                        "'o',",
+                        "'u',",
+                        "'s',",
+                        "' ',",
+                        "'r',",
+                        "'e',",
+                        "'c',",
+                        "'h',",
+                        "'e',",
+                        "'r',",
+                        "'c',",
+                        "'h',",
+                        "'o',",
+                        "'n',",
+                        "'s',",
+                        "' ',",
+                        "'u',",
+                        "'n',",
+                        "' ',",
+                        "'d',",
+                        "'é',",
+                        "'v',",
+                        "'e',",
+                        "'l',",
+                        "'o',",
+                        "'p',",
+                        "'p',",
+                        "'e',",
+                        "'u',",
+                        "'r',",
+                        "' ',",
+                        "'o',",
+                        "'u',",
+                        "' ',",
+                        "'u',",
+                        "'n',",
+                        "'e',",
+                        "' ',",
+                        "'d',",
+                        "'é',",
+                        "'v',",
+                        "'e',",
+                        "'l',",
+                        "'o',",
+                        "'p',",
+                        "'p',",
+                        "'e',",
+                        "'u',",
+                        "'s',",
+                        "'e',",
+                        "' ',",
+                        "'P',",
+                        "'H',",
+                        "'P'.",
+                        "Lorsqu'elle atteint le dernier 'P' la variable $key = 3 et la variable est égale à la longueur du motif donc la méthode return true pour indiquer qu'elle a trouvé une occurrence du motif dans le texte."
+                    ]
+                },
+                "chap10": {
+                    "title": "En conclusion",
+                    "text": [
+                        "L'algorithme KMP est un algorithme de recherche de sous-chaîne très efficace pour les grandes chaînes de caractères. Il a une complexité temporelle de O(n+m), où *n* est la longueur de la chaîne de texte (55) et *m* est la longueur de la chaîne de motif (3), ce qui est optimal dans le pire des cas.",
+                        "Sans unité de mesure spécifique et en comparaison avec un algorithme de Boyer-Moore (autre algo de recherche de sous-chaîne qui n'utilise pas la méthode LPS) le résultat est quand même significatif",
+                        "KMP = O(n + m) = O(55+3) = O(58)",
+                        "BM = O(n * m) = O(55 * 3) = O(165)",
+                        "Avec un petit calcul de différence d'efficacité en pourcentage",
+                        "$pourcentage = ((165 - 58) / 58) * 100%",
+                        "$pourcentage = (107 / 58) * 100%",
+                        "$pourcentage = 184.48%",
+                        "Grâce à ce petit calcul, on se rend compte que l'astuce du tableau LPS() de l'algorithme KMP permet d'être 1,84 fois plus rapide qu'un algorithme Boyer-Moore.",
+                        "Cela est dû au prétraitement du motif avant de comparer chaque caractère, effectivement mon exemple est un peu un mauvais exemple puisque mon texte ne fait que 55 caractères et en plus le motif PHP n'apparaît donc qu'à la fin du texte ce qui montre le 'pire des cas'. Si nous recherchions plusieurs motifs dans un texte plus long, nous aurions vu davantage la force du tableau LPS dans le système de comparaison.",
+                        "Par manque de temps, et aussi d'espace, je rappelle que nous sommes sur environ 1500 mots ici 🧐😅 je ne voulais pas prendre un exemple trop complexe."
+                    ]
+                }
+            },
+            "outro": {
+                "title": "J'espère que vous avez pu apprendre des choses avec cet essai de vulgarisation algorithmique",
+                "text": [
+                    "n'hésitez vraiment pas à me poser des questions sur ce thread ou même si vous avez plus d'expérience que moi, à me reprendre si je n'ai pas été assez précis 😊.",
+                    "Pour aller plus loin sur le sujet je vous conseil : la page Wikipédia, ou encore un article de l'École polytechnique qui rentre en détail dans les secrets de l'algorithme KMP.",
+                    "Et avant de partir, je vous lance un défi ? Combien de fois l'algo KMP est-il plus rapide que l'algo Boyer-Moore si nous avons un texte de 5555 caractères et que nous recherchons toujours le meilleur langage de programmation 'PHP' ?",
+                    "Merci de m'avoir lu, si vous avez apprécié ce thread/article, n'hésite pas à liker, part... non j'rigole, c'est pour la science tchao, c'était @phi__code 🖐"
+                ]
+            }
+        }
+    }
+]

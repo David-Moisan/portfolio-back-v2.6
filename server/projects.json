@@ -1,0 +1,328 @@
+[
+    {
+        "id": 1,
+        "title": "Portfolio v.1.0",
+        "description": "Mon premier Portfolio avec JavaScript, HTML et CSS",
+        "thumbnail": "https://www.cjoint.com/doc/23_07/MGtnsh6NeQS_portf1.png",
+        "link": "https://github.com/David-Moisan/PortfolioDavidM",
+        "created_at": "16/09/2020",
+        "lang": {
+            "1": "HTML5",
+            "2": "CSS 3",
+            "3": "JavaScript"
+        },
+        "idea": {
+            "title": "Idée",
+            "body": "Voici mon premier projet de site web, mon portfolio v1.0. Je souhaitais mettre en avant mes compétences en développement web dans le but d'intégrer l'école WIS Toulouse pour octobre 2020."
+        },
+        "stack": {
+            "title": "Stack",
+            "image": "https://www.cjoint.com/doc/23_07/MGtntcAVtHS_coreTechPortfoliov1.png",
+            "text": "J'espère que vous voyez que mon niveau a augmenté depuis maintenant 3 ans dans ce milieu 😂."
+        },
+        "result": {
+            "title": "Résultat",
+            "video": "https://youtu.be/7ckpm-IZmCY"
+        },
+        "footer": {
+            "text": "Consulter mes réseaux sociaux",
+            "github": "https://github.com/David-Moisan/",
+            "linkedin": "https://www.linkedin.com/in/david-moisan-6251331a5/",
+            "twitter": "https://twitter.com/phi__code"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Green House",
+        "description": "Mon premier atelier. Site de vente d'entreprise de container, maison et quartier écologique.",
+        "thumbnail": "https://www.cjoint.com/doc/23_07/MGtnFCJwA7S_green-h2.png",
+        "link": "https://github.com/David-Moisan/Projet_WorkShop",
+        "created_at": "05/11/2020",
+        "lang": {
+            "1": "HTML5",
+            "2": "CSS 3",
+            "3": "JavaScript",
+            "4": "PHP"
+        },
+        "idea": {
+            "title": "Idée",
+            "body": "Lors de ma licence avec l'école WIS Toulouse, j'ai participé à mon premier atelier. J'ai créé un site internet pour une société 'Green House', société spécialisée dans la vente de maison container et éco-quartier connecté. Le site doit contenir un formulaire de contact et une présentation des éco-quartiers."
+        },
+        "stack": {
+            "title": "Stack",
+            "image": "https://www.cjoint.com/doc/23_07/MGtnIFuRwlS_coreTechGreenHouse.png",
+            "text": "J'ai eu 4 jours pour concevoir ce site et j'ai donc décidé d'utiliser les technologies que je maîtrisais le mieux à cette époque."
+        },
+        "result": {
+            "title": "Résultat",
+            "video": "https://youtu.be/li934v2AJmE"
+        },
+        "footer": {
+            "text": "Consulter mes réseaux sociaux",
+            "github": "https://github.com/David-Moisan/",
+            "linkedin": "https://www.linkedin.com/in/david-moisan-6251331a5/",
+            "twitter": "https://twitter.com/phi__code"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Ânkh Quiz",
+        "description": "Quiz historique présenté lors de la validation de mon projet",
+        "thumbnail": "https://www.cjoint.com/doc/23_07/MGtnZOYyw6S_ankh-2.png",
+        "link": "https://github.com/David-Moisan/projetCloudSytemeWeb",
+        "created_at": "12/11/2020",
+        "lang": {
+            "1": "HTML5",
+            "2": "CSS 3",
+            "3": "JavaScript"
+        },
+        "idea": {
+            "title": "Idée",
+            "body": "Lors de la validation d'un des modules les plus importants pour valider mon Master en Développeurs Web. J'ai réalisé un site de quiz historique regroupant toutes les périodes de l'histoire de l'Homme."
+        },
+        "stack": {
+            "title": "Stack",
+            "image": "https://www.cjoint.com/doc/23_07/MGtn0GZbM8S_coreTechAnkh.png",
+            "text": ""
+        },
+        "result": {
+            "title": "Résultat",
+            "video": "https://youtu.be/dlKsQqSyWro"
+        },
+        "footer": {
+            "text": "Consulter mes réseaux sociaux",
+            "github": "https://github.com/David-Moisan/",
+            "linkedin": "https://www.linkedin.com/in/david-moisan-6251331a5/",
+            "twitter": "https://twitter.com/phi__code"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Cinéma gOne",
+        "description": "Application Cinéma pour valider mon module Symfony",
+        "thumbnail": "https://www.cjoint.com/doc/23_07/MGtn21vWZHS_gOne.png",
+        "link": "https://github.com/David-Moisan/Cinema-gOne-v1.1",
+        "created_at": "09/12/2020",
+        "lang": {
+            "1": "PHP",
+            "2": "Symfony",
+            "3": "Twig",
+            "4": "Bootstrap",
+            "5": "MariaDB"
+        },
+        "idea": {
+            "title": "Idée",
+            "body": "Créez une application Web Symfony pour gérer une base de données de films sans utiliser d'API. Technologies demandées PHP 7.1 ou supérieur, Symfony 4 ou 5 et MySQL ou MariaDB."
+        },
+        "stack": {
+            "title": "Stack",
+            "image": "https://www.cjoint.com/doc/23_07/MGtn5ZggfTS_coreTechGOne.png",
+            "text": ""
+        },
+        "result": {
+            "title": "Résultat",
+            "video": "https://youtu.be/zuILHfbCKfE"
+        },
+        "footer": {
+            "text": "Consulter mes réseaux sociaux",
+            "github": "https://github.com/David-Moisan/",
+            "linkedin": "https://www.linkedin.com/in/david-moisan-6251331a5/",
+            "twitter": "https://twitter.com/phi__code"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Tati Odette",
+        "description": "Interface pour commander du chocolat avec une imprimante 3D",
+        "thumbnail": "https://www.cjoint.com/doc/23_07/MGtocY8570S_tati.png",
+        "link": "https://github.com/David-Moisan/TatiOdette",
+        "created_at": "26/03/2021",
+        "lang": {
+            "1": "HTML 5",
+            "2": "CSS 3",
+            "3": "JavaScript",
+            "4": "Three.js"
+        },
+        "idea": {
+            "title": "Idée",
+            "body": "Afin de répondre à la demande de l'entreprise 'Tati Odette', spécialisée dans la vente de chocolat imprimé via une imprimante 3D. Situé dans les gares et l'aéroport, le client avait besoin d'une interface tablette pour commander le chocolat directement depuis le terminal."
+        },
+        "stack": {
+            "title": "Stack",
+            "image": "https://www.cjoint.com/doc/23_07/MGtod2ScoOS_coreTechOni.png",
+            "text": "Animation 3D (Three.js avec un modèle Sketchfab)"
+        },
+        "result": {
+            "title": "Résultat",
+            "video": "https://youtu.be/5Q1kxToUyzU"
+        },
+        "footer": {
+            "text": "Consulter mes réseaux sociaux",
+            "github": "https://github.com/David-Moisan/",
+            "linkedin": "https://www.linkedin.com/in/david-moisan-6251331a5/",
+            "twitter": "https://twitter.com/phi__code"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Live Envents v2.1",
+        "description": "Projet pour mon BTS DWWM",
+        "thumbnail": "https://www.cjoint.com/doc/23_07/MGtof5vV2uS_LE.png",
+        "link": "https://github.com/David-Moisan/Live_Eventsv2.1",
+        "created_at": "25/04/2021",
+        "lang": {
+            "1": "Javascript",
+            "2": "PHP",
+            "3": "Symfony",
+            "4": "Twig",
+            "5": "MariaDB"
+        },
+        "idea": {
+            "title": "Idée",
+            "body": "Chaque année depuis 3 ans, la société événementielle 'Live Events' organise un festival de musique appelé 'Nation Sounds' en région parisienne afin de récolter des fonds pour une association humanitaire. Un appel d'offres a été lancé par le service informatique de l'entreprise afin de trouver un prestataire capable de créer une plateforme web et web mobile pour le festival."
+        },
+        "stack": {
+            "title": "Stack",
+            "image": "https://www.cjoint.com/doc/23_07/MGtohUiNwtS_coreTechLEvent.png",
+            "text": "Pour ce projet, j'ai utilisé Leaflet.js pour gérer la carte interactive et Chart.js pour créer un tableau de bord pour les administrateurs de la plateforme."
+        },
+        "result": {
+            "title": "Résultat",
+            "video": "https://youtu.be/wOwGR_Bzw8M"
+        },
+        "footer": {
+            "text": "Consulter mes réseaux sociaux",
+            "github": "https://github.com/David-Moisan/",
+            "linkedin": "https://www.linkedin.com/in/david-moisan-6251331a5/",
+            "twitter": "https://twitter.com/phi__code"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Open The Way - PC Game",
+        "description": "Open The Way est un jeu de PC (version Alpha)",
+        "thumbnail": "https://www.cjoint.com/doc/23_07/MGtomZbVwvS_cityOfBuilding-IEsdsJ1.png",
+        "link": "https://youtu.be/-ksfniTQL20",
+        "created_at": "16/07/2021",
+        "lang": {
+            "1": "Blender",
+            "2": "Unity",
+            "3": "C#"
+        },
+        "idea": {
+            "title": "Idée",
+            "body": "Open The Way est un projet que j'ai réalisé avec l'équipe d'Ekklesia. Ekklesia est une équipe de développeurs de jeux de 5 personnes basée en France. Leur projet est de créer le prochain jeu de course familial."
+        },
+        "stack": {
+            "title": "Stack",
+            "image": "https://www.cjoint.com/doc/23_07/MGtoLkzj8zS_csharp.png",
+            "text": "Pour ce projet, j'ai créé la carte (10 000 m²) avec Unity et quelques créations 3D Blender. J'ai aussi aidé sur des parties du code comme la gestion du Karting qui sera sur la version Beta"
+        },
+        "result": {
+            "title": "Résultat",
+            "video": "https://youtu.be/-ksfniTQL20"
+        },
+        "footer": {
+            "text": "Consulter mes réseaux sociaux",
+            "github": "https://github.com/David-Moisan/",
+            "linkedin": "https://www.linkedin.com/in/david-moisan-6251331a5/",
+            "twitter": "https://twitter.com/phi__code"
+        }
+    },
+    {
+        "id": 8,
+        "title": "Linear regression",
+        "description": "Un projet pour apprendre les bases du machine learning lors de mon master ingénieur informatique",
+        "thumbnail": "https://www.cjoint.com/doc/23_07/MGtoM3YlYHS_line.png",
+        "link": "https://github.com/David-Moisan/Regression-Lineaire-with-Numpy",
+        "created_at": "22/09/2021",
+        "lang": {
+            "1": "Python",
+            "2": "Numpy"
+        },
+        "idea": {
+            "title": "Idée",
+            "body": "Pour m'initier au Machine Learning j'ai réalisé un projet avec un jeu de données fictif pour créer un modèle linéaire. Pour créer la dataset, j'ai utilisé le module sklearn et sa méthode make_regression(int, int, int) qui prend 3 paramètres (n_samples, n_features, noise)"
+        },
+        "stack": {
+            "title": "Stack",
+            "image": "https://www.cjoint.com/doc/23_07/MGtoO3VTLLS_coreTechLine.png",
+            "text": "Base de données, Modèle linéaire, Fonction de coût, Descente graduelle, Formation modèle, Résultat, Coefficient de détermination"
+        },
+        "result": {
+            "title": "Résultat",
+            "image": "https://www.cjoint.com/doc/23_07/MGtoM3YlYHS_line.png"
+        },
+        "footer": {
+            "text": "Consulter mes réseaux sociaux",
+            "github": "https://github.com/David-Moisan/",
+            "linkedin": "https://www.linkedin.com/in/david-moisan-6251331a5/",
+            "twitter": "https://twitter.com/phi__code"
+        }
+    },
+    {
+        "id": 9,
+        "title": "Oni Mask",
+        "description": "Ony Mask et Scroll Transition",
+        "thumbnail": "https://www.cjoint.com/doc/23_07/MGtoRRJApHS_Oni.png",
+        "link": "https://github.com/David-Moisan/OniMaskAnimation",
+        "created_at": "03/01/2022",
+        "lang": {
+            "1": "Javascript",
+            "2": "Three.js",
+            "3": "GSAP",
+            "4": "Webpack"
+        },
+        "idea": {
+            "title": "Idée",
+            "body": "Une animation en parallaxe mettant en scène un masque Oni du folklore japonais."
+        },
+        "stack": {
+            "title": "Stack",
+            "image": "https://www.cjoint.com/doc/23_07/MGtoTpcQQaS_coreTechOni.png",
+            "text": "Pour ce projet j'ai appris une nouvelle technologie : les shaders GLSL et la librairie GSAP. Merci à l'artiste Yaroslav.Kononenko (https://sketchfab.com/Yaroslav.Kononenko) pour le masque Oni 😊"
+        },
+        "result": {
+            "title": "Résultat",
+            "video": "https://youtu.be/41_TlEyFGk8"
+        },
+        "footer": {
+            "text": "Consulter mes réseaux sociaux",
+            "github": "https://github.com/David-Moisan/",
+            "linkedin": "https://www.linkedin.com/in/david-moisan-6251331a5/",
+            "twitter": "https://twitter.com/phi__code"
+        }
+    },
+    {
+        "id": 10,
+        "title": "Ancient Temple Dune",
+        "description": "Ma dernière création avec Three.js",
+        "thumbnail": "https://www.cjoint.com/doc/23_07/MGtoZCgN1mS_dune.png",
+        "link": "https://github.com/David-Moisan/Ancient-Temple-by--phi_and_code",
+        "created_at": "17/11/2022",
+        "lang": {
+            "1": "Javascript",
+            "2": "Three.js"
+        },
+        "idea": {
+            "title": "Idée",
+            "body": "Un soir après avoir avancé sur la formation de Bruno Simon , J'ai décidé d'écouter la bande originale du film Dune de Hans Zimmer. Une force créatrice m'a possédé 🤣 et voici la réalisation."
+        },
+        "stack": {
+            "title": "Stack",
+            "image": "https://www.cjoint.com/doc/23_07/MGto1ICB5mS_coreTechDune.png",
+            "text": ""
+        },
+        "result": {
+            "title": "Résultat",
+            "link": "https://ancient-temple-by-phi-and-code.vercel.app/",
+            "video": "https://youtu.be/9f8_NnzpsKw"
+        },
+        "footer": {
+            "text": "Consulter mes réseaux sociaux",
+            "github": "https://github.com/David-Moisan/",
+            "linkedin": "https://www.linkedin.com/in/david-moisan-6251331a5/",
+            "twitter": "https://twitter.com/phi__code"
+        }
+    }
+]
