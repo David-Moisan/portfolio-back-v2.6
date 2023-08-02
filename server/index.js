@@ -67,6 +67,9 @@ app.get('/blog/:slug', (req, res) => {
     res.json(article);
 })
 
+app.get('/', (req, res) => {
+    res.send('Hello, this is the root endpoint of the API service.');
+})
 
 app.listen(PORT, () => {
     console.log(`Server listening on ${PORT}`);
